@@ -1,0 +1,11 @@
+.red-reviews {
+	display: none;
+}
+
+.grey1-pass {
+	display: none;
+}
+
+.red1-active {
+	display: block !important;
+}
